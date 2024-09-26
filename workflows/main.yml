@@ -13,8 +13,7 @@ on:
     branches:
     - master
     
-  
-
+    
 jobs:
   generate:
     permissions: 
