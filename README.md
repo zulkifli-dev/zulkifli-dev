@@ -36,7 +36,7 @@
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulkifli-dev&theme=algolia)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulkifli-dev&theme=algolia)](https://git.io/streak-stats)
-![GitHub Snake Animation Dark](https://raw.githubusercontent.com/zulkifli-dev/zulkifli-dev/output/dist/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Animation Dark](https://github.com/zulkifli-dev/zulkifli-dev/raw/output/github-contribution-grid-snake-dark.svg)
 ![zulkifli-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zulkifli-dev&bg_color=100f0f&color=00a6ff&line=00fff7&point=403e41&area=false)
 
 
